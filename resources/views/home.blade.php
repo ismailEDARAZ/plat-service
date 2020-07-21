@@ -82,7 +82,154 @@
             </div>
         </div>
       </section>
+    <!--gallery -->
+    <div id="gallery">
+        <section>
+            <div class="container">
+                <div class="section-title">
+                        <h4 class="text-center">TOP DESTINATIONS PLAT-SERVICE</h4>
+                        <p class="text-center">Découvrez nos destinations coup de coeur pour votre enterrement de vie de garçon.
+Avec nos 77 destinations à travers l’Europe,vous allez trouver l’idée d’enfer pour le prochain enterrement de vie de garçon.</p>
+                    </div>
+                <div class="row">
+                    <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
 
+                        <div class="box">                            
+                            <a title="playa" class="link-gallery">          
+                                <img class="img-gallery modal-img"  src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                        <div class="box">                            
+                            <a title="flores" class="link-gallery">
+                                <img class="img-gallery" src="https://images.unsplash.com/photo-1515362778563-6a8d0e44bc0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
+                            </a>
+                        </div>
+                    </div>
+                <!--</div>-->
+                <!--<div class="row">-->
+                    <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                        <div class="box">                            
+                            <a  title="cascada" class="link-gallery">
+                                <img class="img-gallery" src="https://images.unsplash.com/photo-1444201983204-c43cbd584d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                        <div class="box">                                                        
+                            <a title="rocas" class="link-gallery">
+                                <img class="img-gallery" src="https://images.unsplash.com/photo-1549294413-26f195200c16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                        <div class="box">                            
+                            <a title="rocas" class="link-gallery">
+                                <img class="img-gallery" src="https://images.unsplash.com/photo-1531003300514-1976481c521e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjUzMjV9&auto=format&fit=crop&w=1500&q=80">
+                            </a>
+                        </div>
+                    </div>
+                <!--</div>
+                <div class="row">-->
+                    <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                        <div class="box">
+                            <a title="cascada" class="link-gallery">
+                                <img class="img-gallery" src="https://images.unsplash.com/photo-1488805990569-3c9e1d76d51c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
+                        <div class="box">                            
+                            <a title="cancha en el bosque" class="link-gallery">
+                                <img class="img-gallery" src="https://images.unsplash.com/photo-1560200353-ce0a76b1d438?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Modal -->
+        <div id="myModal" class="modal">
+        <!-- Boton para cerrar el modal -->
+        <span class="close">×</span>
+        <!-- Imagen a mostrar -->
+        <span class="zoom" id="img-zoom" style="position: relative; overflow: hidden;">            
+            <img class="modal-content" id="img01">
+        </span>
+        <!-- Descripcion de la imagen -->
+        <div id="caption">hola</div>
+        </div>
+    </div>
+    <!-- /gallery -->
+   <!-- owl carousel-->
+    <div class="container mt-40 mb-30">
+          <div class="section-title">
+                        <h4 class="text-center">TOP ACTIVITÉS PLAT-</h4>
+                        <p class="text-center">Découvrez nos meilleures activités pour votre enterrement de vie de garçon.
+Avec un catalogue de </p>
+                    </div>
+            <div class="row mt-30">
+                <div class="col-md-4 col-sm-6">
+                    <div class="box21">
+                        <img src="http://bestjquery.com/tutorial/hover-effect/demo95/images/img-1.jpg" alt="">
+                        <div class="box-content">
+                            <h4 class="title">willimson</h4>
+                            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis augue in odio suscipit, at.</p>
+                            <a class="read-more" href="#">read more</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="box21">
+                        <img src="http://bestjquery.com/tutorial/hover-effect/demo95/images/img-2.jpg" alt="">
+                        <div class="box-content">
+                            <h4 class="title">Kristiana</h4>
+                            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis augue in odio suscipit, at.</p>
+                            <a class="read-more" href="#">read more</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="box21">
+                        <img src="http://bestjquery.com/tutorial/hover-effect/demo95/images/img-3.jpg" alt="">
+                        <div class="box-content">
+                            <h4 class="title">Kristiana</h4>
+                            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis augue in odio suscipit, at.</p>
+                            <a class="read-more" href="#">read more</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+   <!--end carousel-->
+   
   </div><!-- /.container -->
+ <!--modal destination-->
+    <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#destination">
+  Launch demo modal
+</button>
 
+<!-- Modal -->
+<div class="modal fade" id="destination" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--end modal destination-->
 @endsection

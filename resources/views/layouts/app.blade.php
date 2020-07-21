@@ -51,7 +51,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('home') }}">{{ __('Destination') }}</a>
+                            <a class="nav-link" data-toggle="modal" data-target="#destination">{{ __('Destination') }}</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('home') }}">{{ __('Activities') }}</a>
