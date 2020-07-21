@@ -257,6 +257,15 @@ img {
   }
 }
 
+.select2-container .select2-selection--single {
+    height: 38px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 37px !important;
+    font-size: 17px !important;
+}
+
 /*-------------- Section des activities -----------------*/
 
 .title-activity {
@@ -265,7 +274,7 @@ img {
   font-weight: 100;
   font-size: 20px;
   margin-top: 40px;
-  margin-bottom: 15px;
+  padding-left: 20px;
   width: 100%;
 }
 
@@ -274,7 +283,6 @@ img {
   display: block;
   position: relative;
   background: #ECEAF1;
-  padding-bottom: 50px;
 }
 .wrapper:after {
   position: absolute;
@@ -377,12 +385,13 @@ img {
 .ticket-card .price {
   float: right;
   text-align: right;
+  margin-top: 11px;
 }
 .ticket-card .price .from {
   color: #BBBBBB;
 }
 .ticket-card .price .value {
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 200;
   color: #00bbff;
   margin-top: -5px;
@@ -464,7 +473,7 @@ img {
   background: transparent;
   border-top: 1px dotted #BBBBBB;
   border-radius: 0;
-  padding: 15px 8px;
+  padding: 1px 8px;
   font-size: 12px;
   font-weight: 600;
   text-transform: uppercase;
@@ -473,4 +482,8 @@ img {
 }
 .ticket-card .footer .btn:focus, .ticket-card .footer .btn:hover, .ticket-card .footer .btn:active {
   outline: none !important;
+}
+a.btn:hover {
+    text-decoration: none;
+    color: #b3b3b3 !important;
 }
