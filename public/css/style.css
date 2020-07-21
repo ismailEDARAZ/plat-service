@@ -1,6 +1,6 @@
  body 
  {
-    font-family: 'Signika', sans-serif;
+    /*font-family: 'Signika', sans-serif;*/
 }
 .bg-grey {
     background: #292929;
@@ -13,10 +13,10 @@ footer {
 }
 footer p, a {
     font-size: 12px;
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
 }
 footer h6 {
-    font-family: 'Playfair Display', serif;
+    /*font-family: 'Playfair Display', serif;*/
     margin-bottom: 40px;
     position: relative;
 }
